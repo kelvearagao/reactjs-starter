@@ -16,6 +16,7 @@ module.exports = {
           "modules": "commonjs",
           "debug": true
         }
-      ]
+      ],
+      "@babel/preset-react"
     ]
   }
