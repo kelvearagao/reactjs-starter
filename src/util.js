@@ -1,3 +1,1 @@
-export const alerta = async () => {
-    return "Hello"
-}
+export default async () => 'Hello'
